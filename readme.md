@@ -1,3 +1,5 @@
+./main.ps1
+
 Runs through a CSV file of users and disables a specific set of licenses
 
 Creates a log file and an exceptions file
