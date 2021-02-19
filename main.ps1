@@ -1,7 +1,7 @@
 ###Includes
 . .\functions.ps1
 
-# InitializeModules
+InitializeModules
 $csvFile = Import-Csv $path
 
 foreach ($line in $csvFile) {
