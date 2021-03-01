@@ -1,4 +1,4 @@
-$path = "shortList.csv"
+$path = "listWithExceptions.csv"
 $adminUpn = "kevin.blanchard@llamasoft.com"
 
 

@@ -5,7 +5,7 @@ InitializeModules
 $csvFile = Import-Csv $path
 
 foreach ($line in $csvFile) {
-  $upn = $line.UPN
+  $upn = $line.User
   RemoveAccess($upn)
 }
 
